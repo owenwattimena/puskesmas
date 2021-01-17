@@ -1,0 +1,1 @@
+<h2> Home <strong><?= $_SESSION['sebagai'] ?> <?= $_SESSION['dokter']['nama_poli'] ?></strong> </h2>
